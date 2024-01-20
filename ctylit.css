@@ -1,0 +1,57 @@
+header{
+    background-color: black;
+}
+.logo{
+    text-align: center;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+h3{
+    color: rgb(255, 255, 255);
+}
+.spase h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+.spase1{
+    display: flex;
+}
+.spase{
+    text-align: center;
+}
+.sozvezdie{
+  color: rgb(255, 255, 255);  
+  display: flex;
+  justify-content: space-around;
+}
+.galaktiki{
+    color: rgb(255, 255, 255);  
+    display: flex;
+    justify-content: space-around;
+}
+body{
+ background-color: black;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+.svesdu{
+    color: rgb(255, 255, 255);  
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background: linear-gradient(to right, rgb(101, 0, 148), rgb(0, 0, 0)); /* Градиентный фон подвала */
+}
